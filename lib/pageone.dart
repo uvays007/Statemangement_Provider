@@ -66,7 +66,7 @@ class Pageone extends StatelessWidget {
                     MaterialPageRoute(builder: (context) => Pagetwo()),
                   );
                 },
-                child: Text('NEXT PAGE'),
+                child: Text('NEXT SCREEN'),
               ),
             ],
           );
